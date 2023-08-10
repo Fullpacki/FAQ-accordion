@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  display : flex;
+  justify-content : center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(#b069ea, #6661ea) ;
+  padding: 0 1em 0 1em;
+}
